@@ -1,8 +1,11 @@
 🔹 Q-2 : User Introduction Program
 Takes user details like name, age, and hobby and prints a friendly message.
 
-# CODE :- <img width="710" height="161" alt="Screenshot_2026-05-26-13-05-57-58_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/97720ebf-9099-4f81-8af2-2c95c9292d48" />
-# OUTPUT :- 
+# CODE :- 
+<img width="710" height="161" alt="Screenshot_2026-05-26-13-05-57-58_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/97720ebf-9099-4f81-8af2-2c95c9292d48" />
+
+# OUTPUT :-
+<img width="511" height="89" alt="Screenshot 2026-05-26 135757" src="https://github.com/user-attachments/assets/8cabd32d-c00c-4a98-89ff-996ed35d1f44" />
 
 🔹 Q-3 : Arithmetic Operations
 Performs different mathematical operations on two numbers.
