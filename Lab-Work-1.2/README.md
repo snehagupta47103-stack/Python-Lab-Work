@@ -39,10 +39,15 @@ Operations Covered :-
 # Q-4 : Data Types in Python
 Demonstrates different Python data types using type().
 Data Types Covered :-
+
 --> Tuple
+
 --> Integer
+
 --> Float
+
 --> Complex
+
 --> Boolean
 
 # CODE :- 
@@ -66,9 +71,13 @@ Accepts height and weight from the user and displays them using formatted string
 
 # Q-6 : Boolean Operations
 Demonstrates:
+
 --> AND
+
 --> OR
+
 --> NOT
+
 using boolean values entered by the user.
 
 # CODE :- 
@@ -81,10 +90,14 @@ using boolean values entered by the user.
 
 # Q-7 : Assignment Operators
 Shows how assignment operators work in Python.
-Operators Used
+Operators Used:-
+
 --> +=
+
 --> -=
+
 --> *=
+
 --> /=
 
 # CODE :- 
@@ -97,7 +110,11 @@ Operators Used
 
  # Technologies Used
 Python 3
+
 # How to Run
+
 --> Install Python 3
+
 --> Save the file as main.py
+
 --> Run the program.
