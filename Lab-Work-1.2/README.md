@@ -15,7 +15,7 @@ Floor Division
 Modulus
 Exponentiation
 
-# CODE :- <img width="720" height="548" alt="Screenshot_2026-05-26-13-12-15-05_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/bcbc2cea-9239-459b-ae20-c98e74da58cc" />
+# CODE :- 
 
 🔹 Q-4 : Data Types in Python
 Demonstrates different Python data types using type().
@@ -31,7 +31,7 @@ Boolean
 🔹 Q-5 : Height and Weight Input
 Accepts height and weight from the user and displays them using formatted strings.
 
-# CODE :- <img width="720" height="181" alt="Screenshot_2026-05-26-13-18-59-95_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/a8cb661b-95ac-48bb-9aca-c74db4c90063" />
+# CODE :- <img width="720" height="186" alt="Screenshot_2026-05-26-13-34-16-97_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/5ad2f66e-d051-4d6b-b247-df60190685e7" />
 
 🔹 Q-6 : Boolean Operations
 Demonstrates:
@@ -39,6 +39,9 @@ AND
 OR
 NOT
 using boolean values entered by the user.
+
+# CODE :- <img width="720" height="437" alt="Screenshot_2026-05-26-13-34-33-76_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/5f0dd5ca-7c4a-4d4f-bda2-c98d4eb59669" />
+
 🔹 Q-7 : Assignment Operators
 Shows how assignment operators work in Python.
 Operators Used
@@ -46,6 +49,9 @@ Operators Used
 -=
 *=
 /=
+
+# CODE :- <img width="719" height="591" alt="Screenshot_2026-05-26-13-34-53-57_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/a17265a5-eb67-4d60-88f3-b54ed5dac79c" />
+
 🛠️ Technologies Used
 Python 3
 ▶️ How to Run
