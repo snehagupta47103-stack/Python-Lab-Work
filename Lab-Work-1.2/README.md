@@ -13,12 +13,19 @@ Takes user details like name, age, and hobby and prints a friendly message.
 Performs different mathematical operations on two numbers
 .
 Operations Covered :-
+
 --> Addition
+
 --> Subtraction
+
 --> Multiplication
+
 --> Division
+
 --> Floor Division
+
 --> Modulus
+
 --> Exponentiation
 
 # CODE :- 
