@@ -15,7 +15,8 @@ Floor Division
 Modulus
 Exponentiation
 
-# CODE :- 
+# CODE :- <img width="686" height="359" alt="Screenshot_2026-05-26-13-41-29-61_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/acf1e406-9a06-4b72-8fab-d704767f8a9b" />
+
 
 🔹 Q-4 : Data Types in Python
 Demonstrates different Python data types using type().
@@ -40,7 +41,8 @@ OR
 NOT
 using boolean values entered by the user.
 
-# CODE :- <img width="720" height="437" alt="Screenshot_2026-05-26-13-34-33-76_2d061fc732745a17388cd191a2995c2c" src="https://github.com/user-attachments/assets/5f0dd5ca-7c4a-4d4f-bda2-c98d4eb59669" />
+# CODE :- <img width="707" height="429" alt="Screenshot_2026-05-26-13-38-23-55_40deb401b9ffe8e1df2f1cc5ba480b12" src="https://github.com/user-attachments/assets/ceb264bc-2704-43ae-82f5-2e61194ea8fa" />
+
 
 🔹 Q-7 : Assignment Operators
 Shows how assignment operators work in Python.
