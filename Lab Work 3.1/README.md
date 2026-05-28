@@ -42,6 +42,7 @@ Output: Even
 ---
 # OUTPUT
 <img width="231" height="42" alt="Screenshot 2026-05-28 115218" src="https://github.com/user-attachments/assets/239aba9f-022a-4c2a-97d4-609cbd3b5642" />
+
 <img width="230" height="49" alt="Screenshot 2026-05-28 115158" src="https://github.com/user-attachments/assets/0d6686f2-09e9-430b-9658-b35410bcc1ca" />
 
 ---
@@ -69,13 +70,17 @@ Input: 18
 Output: Teenager
 ```
 # CODE
+
 <img width="401" height="202" alt="Screenshot 2026-05-28 114656" src="https://github.com/user-attachments/assets/0f28a505-96fb-4fd9-aef5-498b1e39ef47" />
 
 ---
 # OUTPUT
 <img width="204" height="41" alt="Screenshot 2026-05-28 115427" src="https://github.com/user-attachments/assets/4c451a07-706f-4fb2-a49b-f9693e904863" />
+
 <img width="201" height="46" alt="Screenshot 2026-05-28 115438" src="https://github.com/user-attachments/assets/39c39f50-d98d-49f5-8f56-1e5ba9171f22" />
+
 <img width="199" height="45" alt="Screenshot 2026-05-28 115448" src="https://github.com/user-attachments/assets/9c097cf9-85ad-4d3d-a66e-8e75a05bed8a" />
+
 <img width="186" height="44" alt="Screenshot 2026-05-28 115458" src="https://github.com/user-attachments/assets/e08510e4-5c97-4ccf-a703-54b496d3afad" />
 
 
@@ -104,6 +109,7 @@ Output: Largest num is: 25
 ---
 # OUTPUT
 <img width="246" height="86" alt="Screenshot 2026-05-28 115738" src="https://github.com/user-attachments/assets/1451611a-3622-486e-b19d-dc944a90ce08" />
+
 <img width="266" height="93" alt="Screenshot 2026-05-28 115805" src="https://github.com/user-attachments/assets/6760bdfe-9cf6-49ab-b3f0-d68018278683" />
 
 ---
@@ -135,7 +141,9 @@ Output: It is an multiplicative neutral number.
 ---
 # OUTPUT
 <img width="335" height="51" alt="Screenshot 2026-05-28 115947" src="https://github.com/user-attachments/assets/914cb878-728a-46e6-ab01-59f3388098aa" />
+
 <img width="406" height="52" alt="Screenshot 2026-05-28 115956" src="https://github.com/user-attachments/assets/7ba7b027-db41-458c-b130-759137fa8573" />
+
 <img width="335" height="48" alt="Screenshot 2026-05-28 120005" src="https://github.com/user-attachments/assets/be27d01c-6f5e-4eea-bef5-29b01ca6a658" />
 
 ---
